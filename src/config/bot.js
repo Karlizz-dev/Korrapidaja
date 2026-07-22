@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Watching www.Pornhub.com",     // this is what people actually see
-        type: 4,               // Custom
+        name: "Playing", // required by Discord API, not shown in the client
+        state: "Actual Roleplay",     // this is what people actually see
+        type: 0,               // Custom
       },
     ],
   },
